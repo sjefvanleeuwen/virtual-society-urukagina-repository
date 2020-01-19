@@ -1,0 +1,4 @@
+﻿cred.json
+/.vs
+**/bin/**
+**/obj/**
